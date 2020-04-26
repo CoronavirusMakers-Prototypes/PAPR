@@ -15,6 +15,9 @@ The key objectives of this project are:
 
 In order to acomplish this objetives, the electronics are based on Arduino platform and use easy to find electronics components. Moreover, turbine and helmet support had been designed to be able for been printed with FDM or SLA 3D printers. Also, a pattern for the fabric coverhead has been developed.
 
+
+For information aboout EUvsVirus Hackathon, check https://github.com/CoronavirusMakers-Prototypes/PAPR/tree/master/EUvsVirus
+
 Fabric pattern has been inspired by Open Mask (https://open-mask.org/)
 
 Turbine model has been inspired by Bijan Bayat Mokhtari (https://www.thingiverse.com/thing:590416)
