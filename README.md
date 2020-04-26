@@ -13,7 +13,7 @@ The key objectives of this project are:
 * Equivalent to FFP3
     
 
-In order to acomplish this objetives, the electronics are based on Arduino platform and use easy to find electronics components. Moreover, turbine and helmet support had been designed to be able for been pritned with FDM or SLA 3D printers. Also, the pattern for the fabric coverhead has been developed.
+In order to acomplish this objetives, the electronics are based on Arduino platform and use easy to find electronics components. Moreover, turbine and helmet support had been designed to be able for been printed with FDM or SLA 3D printers. Also, a pattern for the fabric coverhead has been developed.
 
 Fabric pattern has been inspired by Open Mask (https://open-mask.org/)
 
