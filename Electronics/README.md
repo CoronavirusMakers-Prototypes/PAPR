@@ -4,8 +4,8 @@ Please, check PAPR Model One schematics.
 | ID  | ITEM | UNIT |
 | ------------- | ------------- | ------------- |
 | 1  | Corrugated tube (1 meter; ID:38mm, OD:40mm) | 1 |
-| 2  | Tyvek/Tychem (1m)                           | 1 |
-| 3  | Flat elastic (1m, 1cm witdh)                | 1 |
+| 2  | Tyvek/Tychem (1 x 1.5m)                     | 1 |
+| 3  | Flat elastic (1m, 1cm width)                | 1 |
 | 4  | Helmet base (PLA)                           | 1 |
 | 5  | Arduino Nano                                | 1 |
 | 6  | Battery 18v                                 | 1 |
