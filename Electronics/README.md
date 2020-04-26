@@ -1,4 +1,5 @@
-Here you can find the BOM list
+Here you can find the BOM list.
+Please, check PAPR Model One schematics.
 
 | ID  | ITEM | UNIT |
 | ------------- | ------------- | ------------- |
@@ -8,7 +9,7 @@ Here you can find the BOM list
 | 4  | Helmet base (PLA)                           | 1 |
 | 5  | Arduino Nano                                | 1 |
 | 6  | Battery 18v                                 | 1 |
-| 7  | Voltage adapter                             | 1 |
+| 7  | LM358                                       | 2 |
 | 8  | Logial supply step down                     | 1 |
 | 9  | Motor suply step down                       | 1 |
 | 10 | Motor driver H-bridge PWM drive             | 1 |
@@ -19,8 +20,9 @@ Here you can find the BOM list
 | 15 | 1k Ohm Resistor                             | 1 |
 | 16 | 330 Ohm Resistor                            | 1 |
 | 17 | Green Led                                   | 1 |
-| 18 | Yellow Led                                  | 1 |
-| 19 | Red Led                                     | 1 |
-| 20 | Buzzer                                      | 1 |
-| 21 | Button                                      | 1 |
-| 22 | Case FDM                                    | 1 |
+| 18 | Yellow Led                                  | 3 |
+| 19 | Red Led                                     | 3 |
+| 20 | Buzzer                                      | 3 |
+| 21 | Switch                                      | 1 |
+| 22 | Potentiometer                               | 1 |
+| 23 | Case FDM                                    | 1 |
