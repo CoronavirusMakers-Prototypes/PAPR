@@ -15,6 +15,6 @@ The key objectives of this project are:
 
 In order to acomplish this objetives, the electronics are based on Arduino platform and use easy to find electronics components. Moreover, turbine and helmet support had been designed to be able for been pritned with FDM or SLA 3D printers. Also, the pattern for the fabric coverhead has been developed.
 
-Fabric pattern has been inspired by [open-mask.org].
+Fabric pattern has been inspired by Open Mask (https://open-mask.org/)
 
-Turbine model has been inspired by
+Turbine model has been inspired by Bijan Bayat Mokhtari (https://www.thingiverse.com/thing:590416)
