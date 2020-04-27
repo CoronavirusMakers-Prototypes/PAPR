@@ -15,7 +15,12 @@ The key objectives of this project are:
 
 In order to acomplish this objetives, the electronics are based on Arduino platform and use easy to find electronics components. Moreover, turbine and helmet support had been designed to be able for been printed with FDM or SLA 3D printers. Also, a pattern for the fabric coverhead has been developed.
 
-[![PAPR 1: State Machine Test](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=7SLfA67qTE8&feature=youtu.be)
+![PAPR Model One Electronic Box](https://github.com/CoronavirusMakers-Prototypes/PAPR/blob/master/Images/photo_2020-04-23_22-43-28.jpg)
+
+
+Video of electonics prototype
+
+[![PAPR 1: State Machine Test](https://img.youtube.com/vi/7SLfA67qTE8/0.jpg)](https://www.youtube.com/watch?v=7SLfA67qTE8&feature=youtu.be)
 
 
 For information aboout EUvsVirus Hackathon, check https://github.com/CoronavirusMakers-Prototypes/PAPR/tree/master/EUvsVirus
